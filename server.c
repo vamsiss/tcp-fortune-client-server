@@ -1,10 +1,10 @@
-/*Name: Kethan Pilla
+/*Name: Sai Tumpati
  * Course-Section: CS440-section #1
  * Assignment: #1
  * Date due: 02/12/2025
- * Collaborators: stumpati
- * Resources: w3Schools(fileStream), manpage(arc4random,printf,style),bgnet.
- * Description: A server that listens for a client question and responds*/
+ * Collaborators: None
+ * Resources: w3Schools(fileStream), StackOverflow
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
