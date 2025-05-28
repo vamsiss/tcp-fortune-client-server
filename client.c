@@ -1,10 +1,9 @@
 /*
- * Name: Kethan Pilla
+ * Name: Sai Tumpati
  * CS440-1
  * Assignment #1
- * Collaborators: stumpati
- * Resources: w3Schools, manpage(arc4random,printf,style), bgnet
- * Description: Client sends a yes/no question to the server.
+ * Collaborators: None
+ * Resources: StackOverflow, W3schools
  */
 
 #include <sys/types.h>
